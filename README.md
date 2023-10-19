@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **ReactJS, Python**
 
-- 👨‍💻 All of my projects are available at [_](_)
-
 - 📫 How to reach me **ayush.sharma74892@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under a minute!**
