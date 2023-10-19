@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fsdnmq1krx6gtlg8u9lpa29be8xil9gu0zpgtbcg&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fsdnmq1krx6gtlg8u9lpa29be8xil9gu0zpgtbcg&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsharma74&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsharma74" /> </p>
 
