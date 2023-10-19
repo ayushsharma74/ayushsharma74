@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
  <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fsdnmq1krx6gtlg8u9lpa29be8xil9gu0zpgtbcg&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
-💫 About Me:<br>
+About Me:<br>
 
- •I’m currently working on Data Structures And Algorithms 🧑‍💻<br>•🌱 I’m currently learning ReactJS, Python<br>•📫 How to reach me ayush.sharma74892@gmail.com<br>⚡ •Fun fact I can solve a Rubik's Cube in under a minute!<br>
+ • 🧑‍💻 I’m currently working on Data Structures And Algorithms<br>• 🌱 I’m currently learning ReactJS, Python<br>• 📫 How to reach me ayush.sharma74892@gmail.com<br>•⚡ Fun fact I can solve a Rubik's Cube in under a minute!<br>
 
 
 
